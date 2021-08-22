@@ -108,3 +108,5 @@ fabric.properties
 .idea/codestream.xml
 
 # End of https://www.toptal.com/developers/gitignore/api/intellij
+/Web Quiz Engine/quizdb.mv.db
+/Web Quiz Engine/quizdb.mv.db-real
